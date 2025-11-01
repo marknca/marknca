@@ -11,4 +11,4 @@ Repos here contain a mismash of personal projects, repos I've contributed to, an
 If you want to know more [about](https://markn.ca/about) me check out my site, I post regularly on cloud, devops, and the modernization of security. 
 
 ### Let's Chat
-I'm available on Twitter (where [I'm @marknca](https://markn.ca)) or via [email](mailto:me@markn.ca), if you want to chat.
+I'm not on socials that much anymore, send me an [email](mailto:me@markn.ca), if you want to touch base. 
